@@ -1,4 +1,7 @@
-# An::Oint
+# an-oint
+Angular Rails Ointment
+
+## An::Oint
 Short description and motivation.
 
 ## Usage
